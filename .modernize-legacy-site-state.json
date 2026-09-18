@@ -6,5 +6,7 @@
   "project": "larina-studio-modern",
   "retrievedAt": "2026-09-18",
   "previewStarted": true,
-  "previewUrl": "http://127.0.0.1:4174/"
+  "previewUrl": "http://127.0.0.1:4174/",
+  "repositoryUrl": "https://github.com/ComPanS/larina-studio-modern",
+  "publishedUrl": "https://compans.github.io/larina-studio-modern/"
 }
